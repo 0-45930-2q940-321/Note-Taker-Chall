@@ -1,14 +1,13 @@
 # Note-Taker-Chall
-  ## License
-  ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
+## License
+![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ## Description 
+## Description 
 
-  A website to add any notes and save every note. Every note thats inputed will go into the db.json to be able to used as an API to call on.
+ A website to add any notes and save every note. Every note thats inputed will go into the db.json to be able to used as an API to call on.
 
 ## Table of Contents
 
-- [Note-Taker-Chall](#note-taker-chall)
   - [License](#license)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
@@ -17,14 +16,13 @@
   - [Credits](#credits)
   - [Contact](#contact)
 
-
 ## Installation
 
-Any web browser can run this.
+No installation, just go to site in [Usage](#usage)
 
 ## Usage
 
-Just go into the web browser
+Just click **[THIS](https://salty-eyrie-70943.herokuapp.com/)** link.
 
 ## Credits
 
